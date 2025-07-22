@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/efe9874f11684bff9397f13201710628/artifacts
+end_time: 1753189179180
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: efe9874f11684bff9397f13201710628
+run_name: stylish-swan-684
+run_uuid: efe9874f11684bff9397f13201710628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189179103
+status: 3
+tags: []
+user_id: kiran
