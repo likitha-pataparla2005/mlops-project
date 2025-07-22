@@ -1,7 +1,10 @@
+# render.yaml
 services:
   - type: web
-    name: mlops-fastapi
+    name: mlops-fastapi-api
     env: python
-    plan: free
     buildCommand: ""
-    startCommand: uvicorn serve_model:app --host 0.0.0.0 --port 10000
+    startCommand: uvicorn src.serve_model:app --host 0.0.0.0 --port 8000
+    plan: free
+    runtime: python
+    region: oregon

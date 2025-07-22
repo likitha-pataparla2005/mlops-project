@@ -41,7 +41,7 @@ if st.button("🎯 Predict via API"):
             }
 
             # 🔗 API URL
-            api_url = "http://127.0.0.1:8000/predict"  # Change this if deploying
+            api_url = "https://mlops-fastapi-api.onrender.com/predict"  # Change this if deploying
 
             # 🔄 POST request
             response = requests.post(api_url, json=payload)
