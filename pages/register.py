@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+from auth import login
 
 # Set page title and layout
 st.set_page_config(page_title="📝 Register", layout="centered")
