@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/67dcf0eab88043088bd1d40f99b05c17/artifacts
+end_time: 1753203842499
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: 67dcf0eab88043088bd1d40f99b05c17
+run_name: dazzling-sloth-858
+run_uuid: 67dcf0eab88043088bd1d40f99b05c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753203836877
+status: 3
+tags: []
+user_id: kiran

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/7ea952286b8d46858ab1d2cc217006e4/artifacts
+end_time: 1753205511041
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: 7ea952286b8d46858ab1d2cc217006e4
+run_name: ambitious-goose-140
+run_uuid: 7ea952286b8d46858ab1d2cc217006e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753205508285
+status: 3
+tags: []
+user_id: kiran

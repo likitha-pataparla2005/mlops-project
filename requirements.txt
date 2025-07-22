@@ -4,7 +4,8 @@ matplotlib
 seaborn
 joblib
 dvc
-mlflow
+mlflow>=2.0
 fastapi
 uvicorn
 streamlit
+numpy

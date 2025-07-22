@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/4044a82d01a342c4a79066d88359b785/artifacts
+end_time: 1753207809578
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: 4044a82d01a342c4a79066d88359b785
+run_name: burly-penguin-557
+run_uuid: 4044a82d01a342c4a79066d88359b785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753207806950
+status: 3
+tags: []
+user_id: kiran

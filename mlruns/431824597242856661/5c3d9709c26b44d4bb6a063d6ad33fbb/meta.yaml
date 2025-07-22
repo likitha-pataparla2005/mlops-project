@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/5c3d9709c26b44d4bb6a063d6ad33fbb/artifacts
+end_time: 1753207654133
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: 5c3d9709c26b44d4bb6a063d6ad33fbb
+run_name: powerful-doe-837
+run_uuid: 5c3d9709c26b44d4bb6a063d6ad33fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753207651352
+status: 3
+tags: []
+user_id: kiran
