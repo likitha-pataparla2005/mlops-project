@@ -7,6 +7,8 @@ columns = joblib.load("models/columns.pkl")  # Load feature names
 
 st.title("🎓 Student Score Predictor")
 
+st.title("🎓 MLOps Student App - Version 1.1 🚀")
+
 study_time = st.slider("Study Time (hours)", 0, 10)
 attendance = st.slider("Attendance (%)", 50, 100)
 gender = st.selectbox("Gender", ["Male", "Female"])
