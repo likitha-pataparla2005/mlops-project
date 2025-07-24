@@ -2,7 +2,7 @@
 services:
   - type: web
     name: mlops-project
-    env: python
+    env: pythonmlops-project
     buildCommand: ""
     startCommand: uvicorn src.serve_model:app --host 0.0.0.0 --port 8000
     plan: free
