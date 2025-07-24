@@ -50,3 +50,5 @@ def predict_score(data: StudentInput):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+

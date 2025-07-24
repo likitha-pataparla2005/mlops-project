@@ -29,3 +29,6 @@ jobs:
     - name: 🚀 Run Model Training
       run: |
         python src/train.py
+
+
+        
