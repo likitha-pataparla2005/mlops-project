@@ -41,7 +41,7 @@ if st.button("🎯 Predict via API"):
             }
 
             # 🔗 API URL
-            api_url = " https://mlops-project-1-ziwm.onrender.com"  # Change this if deploying
+            api_url = " https://mlops-project-1-ziwm.onrender.com/predict"  # Change this if deploying
 
             # 🔄 POST request
             response = requests.post(api_url, json=payload)
